@@ -1,6 +1,6 @@
 {
-  "name": "node-flatcolors",
-  "version": "0.0.0",
+  "name": "flatcolors",
+  "version": "0.1.0",
   "description": "Convert any color to the nearest flat ui color.",
   "main": "index.js",
   "scripts": {
