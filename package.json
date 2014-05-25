@@ -1,0 +1,25 @@
+{
+  "name": "node-flatcolors",
+  "version": "0.0.0",
+  "description": "Convert any color to the nearest flat ui color.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/IonicaBizau/node-flat-colors.git"
+  },
+  "keywords": [
+    "node",
+    "flat",
+    "ui",
+    "colors"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/image-to-ascii/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/image-to-ascii"
+}
