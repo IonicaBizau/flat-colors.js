@@ -1,8 +1,8 @@
 {
   "name": "flatcolors",
   "version": "1.0.0",
-  "description": "Convert any color to the nearest flat ui color.",
-  "main": "index.js",
+  "description": "Find the nearest flat color for a RGB/Hex input.",
+  "main": "lib/index.js",
   "scripts": {
     "test": "mocha test"
   },
