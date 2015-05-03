@@ -8,6 +8,27 @@ Find the nearest flat color for a RGB/Hex input.
 $ npm install flatcolors
 ```
 
+## Example
+```js
+// Dependencies
+var FlatColors = require("flatcolors")
+
+// Get the flat red
+var flatRed = FlatColors(255, 0, 0);
+// => [211, 84, 0]
+
+var flatRed = FlatColors([255, 0, 0]);
+// => [211, 84, 0]
+
+var flatRed = FlatColors("#f00");
+// => [211, 84, 0]
+
+var random = FlatColors();
+// => [?, ?, ?]
+```
+
+
+
 ## Documentation
 ### `FlatColors(r, g, b)`
 Finds the nearest flat color for rgb and hex inputs.
