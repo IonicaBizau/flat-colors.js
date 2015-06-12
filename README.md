@@ -1,4 +1,3 @@
-![](http://i.imgur.com/S57IeyN.png)
 
 # `flatcolors`
 Find the nearest flat color for a RGB/Hex input.

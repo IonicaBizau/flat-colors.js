@@ -1,13 +1,10 @@
 {
-  "name": "flatcolors",
+  "name": "flat-colors",
   "version": "1.0.0",
   "description": "Find the nearest flat color for a RGB/Hex input.",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha test"
-  },
-  "devDependencies": {
-    "mocha": "*"
   },
   "repository": {
     "type": "git",
@@ -20,13 +17,16 @@
     "colors"
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com>",
-  "license": "MIT",
+  "license": "KINDLY",
   "bugs": {
-    "url": "https://github.com/IonicaBizau/image-to-ascii/issues"
+    "url": "https://github.com/IonicaBizau/node-flat-colors/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/image-to-ascii",
+  "homepage": "https://github.com/IonicaBizau/node-flat-colors",
   "directories": {
     "test": "test"
+  },
+  "blah": {
+    "h_img": "http://i.imgur.com/S57IeyN.png"
   },
   "dependencies": {}
 }
