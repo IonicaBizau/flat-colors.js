@@ -32,16 +32,19 @@ $ npm i flat-colors
 var FlatColors = require("flat-colors")
 
 // Get the flat red
-var flatRed = FlatColors(255, 0, 0);
+console.log(FlatColors(255, 0, 0));
 // => [211, 84, 0]
 
-var flatRed = FlatColors([255, 0, 0]);
+// Same thing, but using a rgb array
+console.log(FlatColors([255, 0, 0]));
 // => [211, 84, 0]
 
-var flatRed = FlatColors("#f00");
+// Still same color but using hex color
+console.log(FlatColors("#f00"));
 // => [211, 84, 0]
 
-var random = FlatColors();
+// Random flat color
+console.log(FlatColors());
 // => [?, ?, ?]
 
 ```
