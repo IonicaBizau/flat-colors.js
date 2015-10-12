@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/IonicaBizau/node-flat-colors.git"
+    "url": "git+ssh://git@github.com/IonicaBizau/node-flat-colors.git"
   },
   "keywords": [
     "node",
@@ -23,10 +23,14 @@
   },
   "homepage": "https://github.com/IonicaBizau/node-flat-colors",
   "directories": {
+    "example": "example",
     "test": "test"
   },
   "blah": {
     "h_img": "http://i.imgur.com/S57IeyN.png"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  }
 }
