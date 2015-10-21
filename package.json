@@ -1,6 +1,6 @@
 {
   "name": "flat-colors",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "Find the nearest flat color for a RGB/Hex input.",
   "main": "lib/index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "ui",
     "colors"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com>",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
   "license": "KINDLY",
   "bugs": {
     "url": "https://github.com/IonicaBizau/node-flat-colors/issues"
@@ -27,7 +27,10 @@
     "test": "test"
   },
   "blah": {
-    "h_img": "http://i.imgur.com/S57IeyN.png"
+    "h_img": "http://i.imgur.com/S57IeyN.png",
+    "thanks": [
+      "The color values are taken from [flatuicolors.com](http://flatuicolors.com). :art:"
+    ]
   },
   "dependencies": {},
   "devDependencies": {
