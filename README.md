@@ -64,6 +64,8 @@ Have an idea? Found a bug? See [how to contribute][contributing].
 ## Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
+ - [`color-it`](https://github.com/IonicaBizau/node-color-it#readme)
+
  - [`couleurs`](https://github.com/IonicaBizau/couleurs)
 
  - [`gpm`](https://github.com/IonicaBizau/node-gpm)
