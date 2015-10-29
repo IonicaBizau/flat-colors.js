@@ -1,7 +1,6 @@
 [![flat-colors](http://i.imgur.com/S57IeyN.png)](#)
 
-# flat-colors [![Donate now][donate-now]][paypal-donations]
-
+# flat-colors [![Support this project][donate-now]][paypal-donations]
 Find the nearest flat color for a RGB/Hex input.
 
 ## Installation
@@ -70,12 +69,13 @@ If you are using this library in one of your projects, add it in this list. :spa
  - [`gpm`](https://github.com/IonicaBizau/node-gpm)
 
 ## License
-[KINDLY][license] © [Ionică Bizău][website]–The [LICENSE](/LICENSE) file contains
-a copy of the license.
+
+[KINDLY][license] © [Ionică Bizău][website]
 
 [license]: http://ionicabizau.github.io/kindly-license/?author=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica@gmail.com%3E&year=2015
-[contributing]: /CONTRIBUTING.md
 [website]: http://ionicabizau.net
-[docs]: /DOCUMENTATION.md
-[paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MG98D7NPFZ3MG
+[paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
 [donate-now]: http://i.imgur.com/6cMbHOC.png
+
+[contributing]: /CONTRIBUTING.md
+[docs]: /DOCUMENTATION.md
