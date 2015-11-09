@@ -1,12 +1,13 @@
 [![flat-colors](http://i.imgur.com/S57IeyN.png)](#)
 
 # flat-colors [![Support this project][donate-now]][paypal-donations]
+
 Find the nearest flat color for a RGB/Hex input.
 
 ## Installation
 
 ```sh
-$ npm i flat-colors
+$ npm i -g flat-colors
 ```
 
 ## Example
@@ -58,8 +59,7 @@ Converts a hex format color into rgb.
 Have an idea? Found a bug? See [how to contribute][contributing].
 
 ## Thanks
-
- - The color values are taken from [flatuicolors.com](http://flatuicolors.com). :art:
+The color values are taken from [flatuicolors.com](http://flatuicolors.com). :art:
 
 ## Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
@@ -74,7 +74,8 @@ If you are using this library in one of your projects, add it in this list. :spa
 
 [KINDLY][license] © [Ionică Bizău][website]
 
-[license]: http://ionicabizau.github.io/kindly-license/?author=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica@gmail.com%3E&year=2015
+[license]: http://ionicabizau.github.io/kindly-license/?author=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica@gmail.com%3E&year=2014
+
 [website]: http://ionicabizau.net
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
 [donate-now]: http://i.imgur.com/6cMbHOC.png
