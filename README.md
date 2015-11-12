@@ -7,7 +7,7 @@ Find the nearest flat color for a RGB/Hex input.
 ## Installation
 
 ```sh
-$ npm i -g flat-colors
+$ npm i flat-colors
 ```
 
 ## Example
