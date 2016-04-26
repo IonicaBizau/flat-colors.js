@@ -1,6 +1,6 @@
 {
   "name": "flat-colors",
-  "version": "3.3.1",
+  "version": "3.3.2",
   "description": "Find the nearest flat color for a RGB/Hex input.",
   "main": "lib/index.js",
   "scripts": {
@@ -35,5 +35,16 @@
   "dependencies": {},
   "devDependencies": {
     "mocha": "^2.3.3"
-  }
+  },
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
