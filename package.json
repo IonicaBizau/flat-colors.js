@@ -1,6 +1,6 @@
 {
   "name": "flat-colors",
-  "version": "3.3.4",
+  "version": "3.3.5",
   "description": "Find the nearest flat color for a RGB/Hex input.",
   "main": "lib/index.js",
   "scripts": {
@@ -40,6 +40,7 @@
     "bin/",
     "app/",
     "lib/",
+    "build/",
     "dist/",
     "src/",
     "resources/",
