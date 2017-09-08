@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Finds the nearest flat color for rgb and hex inputs.
 
 #### Params
+
 - **String|Number|Array** `r`: The color as string in hex format, the *red* value or the rgb passed as array. If `undefined`, a random color will be returned.
 - **Number** `g`: The green value.
 - **Number** `b`: The blue value.
@@ -17,6 +18,7 @@ Finds the nearest flat color for rgb and hex inputs.
 Converts a hex format color into rgb.
 
 #### Params
+
 - **String** `hex`: The color in the hex format.
 
 #### Return
