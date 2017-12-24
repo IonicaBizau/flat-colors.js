@@ -12,7 +12,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save flat-colors
+# Using npm
+npm install --save flat-colors
+
+# Using yarn
+yarn add flat-colors
 ```
 
 
