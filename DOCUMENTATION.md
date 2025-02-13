@@ -7,7 +7,7 @@ Finds the nearest flat color for rgb and hex inputs.
 
 #### Params
 
-- **String|Number|Array** `r`: The color as string in hex format, the *red* value or the rgb passed as array. If `undefined`, a random color will be returned.
+- **String|Number|Array|undefined** `r`: The color as string in hex format, the *red* value or the rgb passed as array. If `undefined`, a random color will be returned.
 - **Number** `g`: The green value.
 - **Number** `b`: The blue value.
 
@@ -22,5 +22,5 @@ Converts a hex format color into rgb.
 - **String** `hex`: The color in the hex format.
 
 #### Return
-- **Array** The rgb array or null.
+- **Array|null** The rgb array or null.
 
